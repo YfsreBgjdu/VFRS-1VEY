@@ -5,10 +5,10 @@
     "env": {
         "UUID": {
             "description": "VLESS UUID",
-            "value": "d692a767-23e4-4992-9c7e-ddc3c0c85e72"
+            "value": "48090dc5-7e90-4b89-968e-488ed0f2fb27"
         }
     },
-    "website": "https://github.com/HXHGTS/vless-heroku",
-    "repository": "https://github.com/HXHGTS/vless-heroku",
+    "website": "https://github.com/YfsreBgjdu/VFRS-1VEY",
+    "repository": "https://github.com/YfsreBgjdu/VFRS-1VEY",
     "stack": "container"
 }
